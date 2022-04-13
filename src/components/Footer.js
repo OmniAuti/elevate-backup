@@ -10,7 +10,7 @@ export default class Footer extends React.Component {
         return(
             <footer className="footer">
                 <div className="footer__logo-col">
-                <img className="footer--logo" src="./imgs/footerLogo.png" alt="Elevate Oral Care Logo"/>
+                <img className="footer--logo" src="../imgs/footerLogo.png" alt="Elevate Oral Care Logo"/>
                 <address>
                 346 PIKE ROAD, SUITE 5<br></br>
                 WEST PALM BEACH, FL 33411<br></br>
@@ -29,16 +29,16 @@ export default class Footer extends React.Component {
                 <div className="footer__products-col">
                 <h3>Products</h3>
                      <ul className="footer--links">
-                        <li><Link to="/">Advantage Arrest®</Link></li>
-                     <li><Link to="/">FluoriMax® NaF Varnish</Link></li>
+                        <li><Link to="/AdvantageArrest">Advantage Arrest®</Link></li>
+                     <li><Link to="/FluoriMax">FluoriMax® NaF Varnish</Link></li>
                      </ul>
                 </div>
 
                 <div className="footer__downloads-col">
                 <h3>Downloads</h3>
-                     <ul className="footer--links"><li><Link to="/">Virtual Catalog</Link></li>
-                     <li><Link to="/">AA (Advantage Arrest® Silver Diamine Fluoride 38%)</Link></li>
-                     <li><Link to="/">FMV (FluoriMax® 2.5% NaF Varnish)</Link></li>
+                     <ul className="footer--links"><li><Link to="/downloads-catalog">Virtual Catalog</Link></li>
+                     <li><Link to="/downloads-AdvantageArrest">AA (Advantage Arrest® Silver Diamine Fluoride 38%)</Link></li>
+                     <li><Link to="/downloads-FluoriMax">FMV (FluoriMax® 2.5% NaF Varnish)</Link></li>
                      </ul>
                 </div>
 

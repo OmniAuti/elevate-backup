@@ -17,7 +17,7 @@ export default class Header extends React.Component {
     render() {
         return(
             <header className="header">
-            <Link to="/"><img src="./imgs/headerLogo.svg" alt="Elevate Care Logo" className="header--logo"/></Link>
+            <div className='header-logo-cont'><Link to="/"><img src="../imgs/headerLogo.svg" alt="Elevate Care Logo" className="header--logo"/></Link></div>
             <button onClick={this.handleActiveNav} className={this.state.activeNav ? "hamburger active-nav" : "hamburger"}> <div></div></button>
                 <nav className={this.state.activeNav ? "active-nav nav" : "nav"}>
                  <ul className="nav--links">
@@ -28,15 +28,15 @@ export default class Header extends React.Component {
                      </ul></li>
                      <li>Products
                      <ul className="nav--links__products-links">
-                         <li><Link to="/">Advantage Arrest®</Link></li>
-                         <li><Link to="/">FluoriMax® NaF Varnish</Link></li>
+                         <li><Link to="/AdvantageArrest">Advantage Arrest®</Link></li>
+                         <li><Link to="/FluoriMax">FluoriMax® NaF Varnish</Link></li>
                      </ul>
                      </li>
                      <li>Downloads
                      <ul className="nav--links__downloads-links">
-                         <li><Link to="/">Virtual Catalog</Link></li>
-                         <li><Link to="/">FMV (FluoriMax® 2.5% NaF Varnish)</Link></li>
-                         <li><Link to="/">AA (Advantage Arrest® Silver Diamine Fluoride 38%)</Link></li>
+                         <li><Link to="/downloads-catalog">Virtual Catalog</Link></li>
+                         <li><Link to="/downloads-FluoriMax">FMV (FluoriMax® 2.5% NaF Varnish)</Link></li>
+                         <li><Link to="/downloads-AdvantageArrest">AA (Advantage Arrest® Silver Diamine Fluoride 38%)</Link></li>
                      </ul>
                      </li>
                      <li>Education
