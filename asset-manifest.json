@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/elevate-backup/static/css/main.2ca86b04.css",
-    "main.js": "/elevate-backup/static/js/main.203f35ec.js",
+    "main.css": "/elevate-backup/static/css/main.9a773ee6.css",
+    "main.js": "/elevate-backup/static/js/main.00e9ac70.js",
     "static/media/saudi-arabia.svg": "/elevate-backup/static/media/saudi-arabia.4e3821684946dc38aee1.svg",
     "static/media/error-page.svg": "/elevate-backup/static/media/error-page.c01397f60b02ed34a259.svg",
     "static/media/united-states.svg": "/elevate-backup/static/media/united-states.356c97137431274ac8f6.svg",
@@ -24,11 +24,11 @@
     "index.html": "/elevate-backup/index.html",
     "static/media/myanmar.svg": "/elevate-backup/static/media/myanmar.32ae2cbd8dc633ab2e68.svg",
     "static/media/down-arrow.svg": "/elevate-backup/static/media/down-arrow.8c6758c2cea963be96a9.svg",
-    "main.2ca86b04.css.map": "/elevate-backup/static/css/main.2ca86b04.css.map",
-    "main.203f35ec.js.map": "/elevate-backup/static/js/main.203f35ec.js.map"
+    "main.9a773ee6.css.map": "/elevate-backup/static/css/main.9a773ee6.css.map",
+    "main.00e9ac70.js.map": "/elevate-backup/static/js/main.00e9ac70.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ca86b04.css",
-    "static/js/main.203f35ec.js"
+    "static/css/main.9a773ee6.css",
+    "static/js/main.00e9ac70.js"
   ]
 }
