@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/elevate-backup/static/css/main.6bde4180.css",
-    "main.js": "/elevate-backup/static/js/main.b8e58c00.js",
+    "main.css": "/elevate-backup/static/css/main.31255e53.css",
+    "main.js": "/elevate-backup/static/js/main.21f6c471.js",
     "static/media/saudi-arabia.svg": "/elevate-backup/static/media/saudi-arabia.4e3821684946dc38aee1.svg",
     "static/media/error-page.svg": "/elevate-backup/static/media/error-page.c01397f60b02ed34a259.svg",
     "static/media/united-states.svg": "/elevate-backup/static/media/united-states.356c97137431274ac8f6.svg",
@@ -18,17 +18,15 @@
     "static/media/singapore.svg": "/elevate-backup/static/media/singapore.49ef02771af7b49341f0.svg",
     "static/media/linkedin-white.svg": "/elevate-backup/static/media/linkedin-white.ff70dcdb3736c69c15b9.svg",
     "static/media/linkedin.svg": "/elevate-backup/static/media/linkedin.a94ca3b6dd648e707a83.svg",
-    "static/media/egypt.svg": "/elevate-backup/static/media/egypt.587188b03de27eb3bfb7.svg",
     "static/media/jordan.svg": "/elevate-backup/static/media/jordan.dd61ec3dffd14eb46df1.svg",
     "static/media/chile.svg": "/elevate-backup/static/media/chile.aab2097e7f411c4e72f2.svg",
     "index.html": "/elevate-backup/index.html",
-    "static/media/myanmar.svg": "/elevate-backup/static/media/myanmar.32ae2cbd8dc633ab2e68.svg",
     "static/media/down-arrow.svg": "/elevate-backup/static/media/down-arrow.8c6758c2cea963be96a9.svg",
-    "main.6bde4180.css.map": "/elevate-backup/static/css/main.6bde4180.css.map",
-    "main.b8e58c00.js.map": "/elevate-backup/static/js/main.b8e58c00.js.map"
+    "main.31255e53.css.map": "/elevate-backup/static/css/main.31255e53.css.map",
+    "main.21f6c471.js.map": "/elevate-backup/static/js/main.21f6c471.js.map"
   },
   "entrypoints": [
-    "static/css/main.6bde4180.css",
-    "static/js/main.b8e58c00.js"
+    "static/css/main.31255e53.css",
+    "static/js/main.21f6c471.js"
   ]
 }
