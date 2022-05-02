@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/elevate-backup/static/css/main.88ca96df.css",
+    "main.css": "/elevate-backup/static/css/main.b5d6dd5b.css",
     "main.js": "/elevate-backup/static/js/main.d8d57851.js",
     "static/media/saudi-arabia.svg": "/elevate-backup/static/media/saudi-arabia.4e3821684946dc38aee1.svg",
     "static/media/error-page.svg": "/elevate-backup/static/media/error-page.c01397f60b02ed34a259.svg",
@@ -22,11 +22,11 @@
     "static/media/chile.svg": "/elevate-backup/static/media/chile.aab2097e7f411c4e72f2.svg",
     "index.html": "/elevate-backup/index.html",
     "static/media/down-arrow.svg": "/elevate-backup/static/media/down-arrow.8c6758c2cea963be96a9.svg",
-    "main.88ca96df.css.map": "/elevate-backup/static/css/main.88ca96df.css.map",
+    "main.b5d6dd5b.css.map": "/elevate-backup/static/css/main.b5d6dd5b.css.map",
     "main.d8d57851.js.map": "/elevate-backup/static/js/main.d8d57851.js.map"
   },
   "entrypoints": [
-    "static/css/main.88ca96df.css",
+    "static/css/main.b5d6dd5b.css",
     "static/js/main.d8d57851.js"
   ]
 }
